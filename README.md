@@ -1,1 +1,1 @@
-# Lux-Bootcamp Week one Project
+# Lux-Bootcamp Project
